@@ -1,0 +1,85 @@
+#poem:hover .poemBg,
+
+#poem:hover p,
+
+#poem:hover button {
+
+    opacity: 1;
+
+}
+
+#poem:hover button:hover {
+
+    background-color: rgba(255, 255, 255, .05);
+
+    color: #70C000;
+
+}
+
+/* main结束 */
+
+footer {
+
+    display: flex;
+
+    font-size: 12px;
+
+    padding: 10px;
+
+}
+
+.copy {
+
+    margin-right: 10px;
+
+    color: rgba(255, 255, 255, .6);
+
+}
+
+.info li {
+
+    margin-right: 10px;
+
+}
+
+.info a,
+
+.info span {
+
+    transition: .3s;
+
+    color: rgba(255, 255, 255, .6);
+
+}
+
+.info li a:hover {
+
+    color: #fff;
+
+}
+
+#switch {
+
+    position: fixed;
+
+    font-size: 50px;
+
+    bottom: 2%;
+
+    right: 1%;
+
+}
+
+#switch .fa:hover {
+
+    transform: scale(1.1);
+
+}
+
+#switch .fa {
+
+    transition: all.3s;
+
+    color: rgba(255, 207, 72, .75);
+
+}
