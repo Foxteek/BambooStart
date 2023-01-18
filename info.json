@@ -1,0 +1,218 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://limestart.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 31355,
+            "children": [
+                {
+                    "url": "https://limestart.cn/static/theme-314b964571.js",
+                    "path": "js/theme-314b964571.js",
+                    "saved": true,
+                    "size": 6382
+                },
+                {
+                    "url": "https://cdn.staticfile.org/vue/3.2.39/vue.global.prod.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://limestart.cn/static/i18n-e2f74bd80e.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://limestart.cn/static/main-a4aed7e2b5.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://limestart.cn/static/main-78c7665882.css",
+                    "path": "css/main-78c7665882.css",
+                    "saved": true,
+                    "size": 68017,
+                    "children": [
+                        {
+                            "url": "https://at.alicdn.com/t/c/font_1010028_v1j5j3arz7.woff2?t=1670334445611",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://at.alicdn.com/t/c/font_1010028_v1j5j3arz7.woff?t=1670334445611",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://at.alicdn.com/t/c/font_1010028_v1j5j3arz7.ttf?t=1670334445611",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/Lime_Logo_with_Title_Cropped.png",
+                            "path": "img/Lime_Logo_with_Title_Cropped.png",
+                            "saved": true,
+                            "size": 23371
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/lime/wallpapers/Default1_Pre.jpg",
+                            "path": "img/Default1_Pre.jpg",
+                            "saved": true,
+                            "size": 68401
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/lime/wallpapers/Default2_Pre.jpg",
+                            "path": "img/Default2_Pre.jpg",
+                            "saved": true,
+                            "size": 59282
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/lime/wallpapers/Default3_Pre.jpg",
+                            "path": "img/Default3_Pre.jpg",
+                            "saved": true,
+                            "size": 72220
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/lime/wallpapers/Default4_Pre.jpg",
+                            "path": "img/Default4_Pre.jpg",
+                            "saved": true,
+                            "size": 64784
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/lime/wallpapers/Default5_Pre.jpg",
+                            "path": "img/Default5_Pre.jpg",
+                            "saved": true,
+                            "size": 96320
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/lime/wallpapers/Default6_Pre.jpg",
+                            "path": "img/Default6_Pre.jpg",
+                            "saved": true,
+                            "size": 103094
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/lime/wallpapers/Live1.webp",
+                            "path": "img/Live1.webp",
+                            "saved": true,
+                            "size": 70442
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/lime/wallpapers/Live2.webp",
+                            "path": "img/Live2.webp",
+                            "saved": true,
+                            "size": 45416
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/lime/wallpapers/Live3.webp",
+                            "path": "img/Live3.webp",
+                            "saved": true,
+                            "size": 55244
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/lime/wallpapers/Live4.webp",
+                            "path": "img/Live4.webp",
+                            "saved": true,
+                            "size": 29412
+                        },
+                        {
+                            "url": "https://assets.retiehe.com/ap-icon-192-2.png",
+                            "path": "img/ap-icon-192-2.png",
+                            "saved": true,
+                            "size": 23029
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/Lime_Logo.png",
+                            "path": "img/Lime_Logo.png",
+                            "saved": true,
+                            "size": 46413
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/Wave_Top.png",
+                            "path": "img/Wave_Top.png",
+                            "saved": true,
+                            "size": 20248
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/Wave_Middle.png",
+                            "path": "img/Wave_Middle.png",
+                            "saved": true,
+                            "size": 21561
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/Wave_Bottom.png",
+                            "path": "img/Wave_Bottom.png",
+                            "saved": true,
+                            "size": 22591
+                        }
+                    ]
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/gh/MobiusBeta/assets/images/apple-touch-icon-lime.png",
+                    "path": "img/apple-touch-icon-lime.png",
+                    "saved": true,
+                    "size": 67963
+                }
+            ]
+        }
+    ],
+    "alias": "limestart-cn-hiuxhgyr",
+    "info": {
+        "remark": [],
+        "title": "青柠起始页",
+        "domain": "limestart.cn",
+        "origin": "https://limestart.cn",
+        "ip": "172.66.44.154",
+        "main": "index.html",
+        "url": "https://limestart.cn/",
+        "totalSize": "996 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://limestart.cn/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://limestart.cn/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Wed, 18 Jan 2023 04:09:00 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "access-control-allow-origin": "*",
+                "cache-control": "public, max-age=3600",
+                "etag": "W/\"93dd01ab244da6c9b42e453a9cfe844e\"",
+                "link": "<https://bird.limestart.cn>; rel=\"preconnect\", <https://static.retiehe.com>; rel=\"preconnect\"",
+                "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+                "content-security-policy": "frame-ancestors 'self' chrome-extension: moz-extension:",
+                "referrer-policy": "strict-origin-when-cross-origin",
+                "x-content-type-options": "nosniff",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=abShqQ6CElk%2B3Vni8dtqXzafoWeRzpJm9W5EBgVn7%2FbmlMVoyRx6b%2BP7Bd6qMjYIIl1Mto1Lp%2Bt%2B%2BmLVDNlHQqnKa4vdMK1D8%2B0fgOFiyY6wRMii6szSfVTBq7UJ2Uc%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "vary": "Accept-Encoding",
+                "server": "cloudflare",
+                "cf-ray": "78b47903df62afa5-NRT",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        },
+        "time": {
+            "start": "2023-01-18T04:09:00.522Z",
+            "end": "2023-01-18T04:09:06.285Z"
+        }
+    },
+    "options": {
+        "url": "https://limestart.cn/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
